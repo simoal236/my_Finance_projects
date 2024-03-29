@@ -1,0 +1,1 @@
+"Master's degree in Finance graduate, here are some of the main projects completed during my course of study. They essentially involve the application of quantitative methods, such as the Monte Carlo method, for pricing various financial products."
